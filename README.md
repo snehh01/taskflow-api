@@ -1,5 +1,9 @@
 # TaskFlow — Task Management REST API
 
+**A task management application.**
+
+TaskFlow combines a REST API with a responsive web dashboard for creating, tracking, searching, filtering, and updating tasks. It includes Pydantic validation, database integration, and automated tests.
+
 **Release classification: **v1.1.0 (QA-hardened release)**
 
 TaskFlow is a Python/FastAPI task manager with a polished, responsive web dashboard. It demonstrates CRUD APIs, validation, SQLAlchemy database integration, filtering/search, HTML form workflows, and automated tests. The interface is built with **Jinja2 templates, HTML, CSS, and vanilla JavaScript** — not Streamlit.
